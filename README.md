@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alinewassum)
 [![Twitch](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alinewassum)
+[![sandwiche](https://img.shields.io/badge/sandwiche-C0C0C0?style=for-the-badge&logo=sandwiche&logoColor=white)](https://sandwiche.me/alinewassum)
 
 
 <br><br><br>
